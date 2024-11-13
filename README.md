@@ -19,6 +19,7 @@ This repository is a work in progress. I'll update the README and content as I c
   * tensorflow broadcasting from 1D, 2D, and 3D
   * tensorflow math useful functions: reduce_sum, reduce_max, reduce_mean
   * tensorflow linalg operations: matmul, matrix multiplication, transpose.
+  * tensorflow bandpart definition of upper, lower, and normal diagonal in a matrix
 
 ### Youtube Series Source:
 All of the different Jupyter notebooks and projects are based on this complete course of tensorflow:
