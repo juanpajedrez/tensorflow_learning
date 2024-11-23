@@ -21,6 +21,10 @@ This repository is a work in progress. I'll update the README and content as I c
   * tensorflow linalg operations: matmul, matrix multiplication, transpose.
   * tensorflow bandpart definition of upper, lower, and normal diagonal in a matrix
   * SVD and inverse of a square matrix using tensorflow
+ - Notebook 3:
+  * Numpy 2D and 3D operations using einsum
+  * Key and Query multiplication from attention transformers example
+  * Efficient transformer chunks from present and past using einsum example.
 
 ### Youtube Series Source:
 All of the different Jupyter notebooks and projects are based on this complete course of tensorflow:
