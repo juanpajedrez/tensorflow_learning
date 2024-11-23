@@ -10,21 +10,21 @@ This repository is a work in progress. I'll update the README and content as I c
 
 ### Fundamental Concepts Notebooks
 - Notebook 1:
-  * tensors definitions for 1D, 2D, and 3D, boolean, string, shape and dimensions
-  * tensorflow functions for tensor creation: zeros, ones, ones_like, identity_matrix
-  * tensorflow casting from numpy
-  * tensors creation from random distributions: random normal, uniform, random.set_seet
+   * tensors definitions for 1D, 2D, and 3D, boolean, string, shape and dimensions
+   * tensorflow functions for tensor creation: zeros, ones, ones_like, identity_matrix
+   * tensorflow casting from numpy
+   * tensors creation from random distributions: random normal, uniform, random.set_seet
 - Notebook 2:
-  * tensorflow and mathematical operations: absolute, power, maximum, minimum, argmin, argmax
-  * tensorflow broadcasting from 1D, 2D, and 3D
-  * tensorflow math useful functions: reduce_sum, reduce_max, reduce_mean
-  * tensorflow linalg operations: matmul, matrix multiplication, transpose.
-  * tensorflow bandpart definition of upper, lower, and normal diagonal in a matrix
-  * SVD and inverse of a square matrix using tensorflow
+   * tensorflow and mathematical operations: absolute, power, maximum, minimum, argmin, argmax
+   * tensorflow broadcasting from 1D, 2D, and 3D
+   * tensorflow math useful functions: reduce_sum, reduce_max, reduce_mean
+   * tensorflow linalg operations: matmul, matrix multiplication, transpose.
+   * tensorflow bandpart definition of upper, lower, and normal diagonal in a matrix
+   * SVD and inverse of a square matrix using tensorflow
  - Notebook 3:
-  * Numpy 2D and 3D operations using einsum
-  * Key and Query multiplication from attention transformers example
-  * Efficient transformer chunks from present and past using einsum example.
+   * Numpy 2D and 3D operations using einsum
+   * Key and Query multiplication from attention transformers example
+   * Efficient transformer chunks from present and past using einsum example.
 
 ### Youtube Series Source:
 All of the different Jupyter notebooks and projects are based on this complete course of tensorflow:
