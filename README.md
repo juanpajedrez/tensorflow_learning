@@ -25,12 +25,13 @@ This repository is a work in progress. I'll update the README and content as I c
    * Numpy 2D and 3D operations using einsum
    * Key and Query multiplication from attention transformers example
    * Efficient transformer chunks from present and past using einsum example.
- - Notebook 4 (in progress):
+ - Notebook 4:
    * Tensorflow important functions, expand dimensions for 1D, 2D, 3D
    * Tensorflow squeeze dimensions for 2D and 3D tensors.
    * Tensorflow reshape method for 2D and 3D tensors.
    * Tensorflow concatanetion for 2D and 3D tensors.
    * Tensorflow stack for 2D and 3D tensors, and difference with concatanetion.
+   * Tensorflow gather, gather_nd, and padding method
 
 ### Youtube Series Source:
 All of the different Jupyter notebooks and projects are based on this complete course of tensorflow:
