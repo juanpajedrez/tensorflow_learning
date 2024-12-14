@@ -1,6 +1,6 @@
 # Tensorflow Learning
 
-Welcome to my TensorFlow learning repository! Here, I document my progress with various notebooks and projects highlighting TensorFlow’s capabilities and exploring its fundamentals.
+Welcome to my TensorFlow learning repository! Here, I document my progress with various notebooks and projects that highlight TensorFlow’s capabilities and explore its fundamentals.
 
 The repository is organized into sections:
 
@@ -32,6 +32,9 @@ This repository is a work in progress. I'll update the README and content as I c
    * Tensorflow concatanetion for 2D and 3D tensors.
    * Tensorflow stack for 2D and 3D tensors, and difference with concatanetion.
    * Tensorflow gather, gather_nd, and padding method
+ - Notebook 5: (In progress):
+   * Tensorflow ragged tensors implementations.
+   * Create ragged tensors using from_row_lengths, from_row_limits, from_row_splits.
 
 ### Youtube Series Source:
 All of the different Jupyter notebooks and projects are based on this complete course of tensorflow:
