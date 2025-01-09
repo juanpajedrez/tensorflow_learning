@@ -36,6 +36,9 @@ This repository is a work in progress. I'll update the README and content as I c
    * Tensorflow ragged tensors implementations.
    * Create ragged tensors using from_row_lengths, from_row_limits, from_row_splits.
    * Explored the usage of tensors containing strings, and see how there are analyzed
+ - Notebook 6:
+   * Tensorflow create tensors and variables with update possibility.
+   * Assign them to different CPU and GPU devices for computation.
 
 ### Youtube Series Source:
 All of the different Jupyter notebooks and projects are based on this complete course of tensorflow:
